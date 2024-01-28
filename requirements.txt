@@ -6,3 +6,4 @@ itsdangerous==2.0.1
 flask_wtf
 wtforms
 Pillow
+email_validator
