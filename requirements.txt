@@ -1,0 +1,8 @@
+flask_sqlalchemy
+flask_bcrypt
+flask_login
+flask_mail
+itsdangerous==2.0.1
+flask_wtf
+wtforms
+Pillow
